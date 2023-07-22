@@ -35,3 +35,7 @@ Technical reviews were made by Lasse Fister, Kalapi GajjarBordawekar and Marc Fo
 - We applied a new weight distribution across the variables. 
 - Now Montserrat has extended Cyrillic support (GF Cyrillic Pro).
 - More detais about migration in https://github.com/JulietaUla/Montserrat/releases/tag/v7.200
+
+### Customization
+
+This is a customization for S&K agency with a selection of alternates activated and including an alternative ampersand.
